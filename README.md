@@ -5,23 +5,23 @@
 
 #<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-# - 🌱 Atualmente estou estudando [Linux](https://github.com/torvalds/linux)
+# 🌱 Atualmente estou estudando [Linux](https://github.com/torvalds/linux)
 
 - 💻 Atualmente estou estudando sobre ** DevOps / Cloud AWS / Linux / CyberSecurity **
 
-# - 👯 Estou procurando colaborar em **Debian**
+# 👯 Estou procurando colaborar em **Debian**
 
 - 🤝 Estou procurando ajuda com **Shell Script**
 
 - 👨‍ Todos os meus projetos estarão disponíveis em [https://github.com/djotasoeiro](https://github.com/djotasoeiro)
 
-# - 📝 Eu regularmente escrevo artigos sobre [https://criptoshell.medium.com/](https://criptoshell.medium.com/)
+# 📝 Eu regularmente escrevo artigos sobre [https://criptoshell.medium.com/](https://criptoshell.medium.com/)
 
-# - 💬 Pergunte-me sobre **Linux, Forense Digital e Criptografia**
+# 💬 Pergunte-me sobre **Linux, Forense Digital e Criptografia**
 
 - 📫 Como me encontrar **Email: djota.cloud@gmail.com Telegram: Djota Cloud**
 
-# - 📄 Conheça minhas experiências [Análise de malwares, sniffers de rede, OSINT.]
+# 📄 Conheça minhas experiências [Análise de malwares, sniffers de rede, OSINT.]
 
 - ⚡ Fato engraçado **Prefiro Linux :p**
 
