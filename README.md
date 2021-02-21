@@ -1,22 +1,26 @@
 <h1 align="center">Olá 👋, Sou Djota Soeiro</h1>
 <h3 align="center">Sou um estudante de T.I/CyberSecurity</h3>
 
-#<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassoeiro8&label=Profile%20views&color=0e75b6&style=flat" alt="lucassoeiro8" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=djotasoeiro&label=Profile%20views&color=0e75b6&style=flat" alt="djotasoeiro" /> </p>
 
-#<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
- 💻 Atualmente estou estudando sobre ** DevOps / Cloud AWS / Linux / CyberSecurity **
+- 💻 Atualmente sou um grupo de estudos sobre ** DevOps / Cloud AWS **
 
-🤝 Estou procurando ajuda com **Shell Script**
+- Assuntos paralelos de meu interesse e estudos " CyberSecurity / Linux / Python "
 
-👨‍ Todos os meus projetos estarão disponíveis em [https://github.com/djotasoeiro](https://github.com/djotasoeiro)
 
-📫 Como me encontrar **Email: djota.cloud@gmail.com Telegram: Djota Cloud**
+- 🤝 Estou procurando ajuda com **Shell Script**
 
-⚡ Fato engraçado **Prefiro Linux :p**
+- 👨‍ Todos os meus projetos estarão disponíveis em [https://github.com/djotasoeiro](https://github.com/djotasoeiro)
+
+- 📫 Como me encontrar **Email: djota.cloud@gmail.com Telegram: @Djota Cloud**
+
+- ⚡ Fato engraçado **Prefiro Linux :p**
 
 <h3 align="left">Contact:</h3>
+
 <p align="left">
 
 </p>
