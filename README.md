@@ -17,7 +17,7 @@
 
 - 📫 Como me encontrar ** E-mail: djota.cloud@gmail.com Telegram: @Djota Cloud **
 
-- ⚡ Fato engraçado **Prefiro Linux :p**
+
 
 <h3 align="left">Contact:</h3>
 
