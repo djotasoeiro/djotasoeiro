@@ -1,23 +1,21 @@
-<h1 align="center">Bem vindos, este é meu portifólio <h1>
-  
-<h1align="center"> sou Djota Soeiro e abaixo um pouco sobre minhas experiências e conhecimento </h1>
+<h1 align="center">Olá sou Djota Soeiro, bem vindos ao meu portifólio </h1>
 
-<h3 align="center">Sou um eterno aprendiz...</h3>
+<h3 align="center">E as cicatrizes dessa história mal escrita se converteram no aprendizado da reconstrução....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djotasoeiro&label=Profile%20views&color=0e75b6&style=flat" alt="djotasoeiro" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 💻 Atualmente sou um grupo de estudos sobre ** DevOps / Cloud AWS **
+- 💻 Atualmente estudo com amigos sobre ** DevOps / Cloud AWS **
 
 - Áreas de interesses de estudos " CyberSecurity / Linux / Python / Cloud / DevOps"
 
-- 🤝 Estou procurando ajuda com **Shell Script**
+- 🤝 Estou procurando ajuda com ** Shell Script **
 
 - 👨‍ Todos os meus projetos estarão disponíveis em [https://github.com/djotasoeiro](https://github.com/djotasoeiro)
 
-- 📫 Como me encontrar **Email: djota.cloud@gmail.com Telegram: @Djota Cloud**
+- 📫 Como me encontrar ** E-mail: djota.cloud@gmail.com Telegram: @Djota Cloud **
 
 - ⚡ Fato engraçado **Prefiro Linux :p**
 
