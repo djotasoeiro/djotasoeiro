@@ -1,4 +1,7 @@
-<h1 align="center">Olá 👋, Sou Djota Soeiro</h1>
+<h1 align="center">Bem vindos, este é meu portifólio <h1>
+  
+<h1align="center"> sou Djota Soeiro e abaixo um pouco sobre minhas experiências e conhecimento </h1>
+
 <h3 align="center">Sou um eterno aprendiz...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djotasoeiro&label=Profile%20views&color=0e75b6&style=flat" alt="djotasoeiro" /> </p>
