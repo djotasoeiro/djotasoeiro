@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=djotasoeiro&show_icons=true&locale=en&layout=compact" alt="djotasoeiro" /></p>
 
-<img title="Meu desenvolvimento" heigth="320" width="350" src="https://github-readme-stats.vercel.app/api?username=wellington197&show_icons=true&theme=radical"/>
+<img title="Meu desenvolvimento" heigth="320" width="350" src="https://github-readme-stats.vercel.app/api?username=djotasoeiro&show_icons=true&theme=radical"/>
