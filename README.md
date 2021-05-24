@@ -13,7 +13,7 @@
 
 - 📝 Estou procurando colaborar em [um novo projeto com amigos](devops_mentoring)
 
-- 🤝 Estou em bisca de ajuda com ** Python, elaboração de ferramentas para Pentest **
+- 🤝 Estou em busca de ajuda com ** Python, elaboração de ferramentas para Pentest **
 
 - 👨‍💻 Todos os meus projetos ficarão disponíveis em [https://github.com/djotasoeiro]
 
