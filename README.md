@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/djotac" target="blank"><img src="https://img.shields.io/twitter/follow/djotac?logo=twitter&style=for-the-badge" alt="djotac" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em **Suporte Técnico de TI**
+- 🔭 Atualmente estou trabalhando com **Suporte Técnico de TI**
 
-- 🌱 Atualmente estou aprendendo **Docker, CI/CD, DevOps**
+- 🌱 Atualmente estou cursando ** Botcamp de Analista de Ataque Cibernético (IGTI) e estudando para realizar o exame 101-500 da LPIC-1**
 
 - 📝 Estou procurando colaborar em [um novo projeto com amigos](devops_mentoring)
 
-- 🤝 Estou procurando ajuda com **Python**
+- 🤝 Estou em bisca de ajuda com ** Python, elaboração de ferramentas para Pentest **
 
-- 👨‍💻 Todos os meus projetos ficarão disponíveis em [https://github.com/djotasoeiro](https://github.com/djotasoeiro)
+- 👨‍💻 Todos os meus projetos ficarão disponíveis em [https://github.com/djotasoeiro]
 
-- 📚 Leio regularmente artigos sobre [CyberSecurity, Python, e Shell Script](CyberSecurity, Python, e Shell Script)
+- 📚 Leio regularmente artigos sobre [Cyber Security, Python, Linux e Shell Script]
 
-- 💬 Pergunte-me sobre **Linux, Redes**
+- 💬 Pergunte-me sobre ** Linux, Redes, Cyber Segurança **
 
-- 📨 Como me encontrar **E-mail: djota.cloud@gmail.com**
+- 📨 Como me encontrar ** E-mail: djota.cloud@gmail.com **
 
-- 📈 Algumas metas para este ano 2021 [Certificação LPIC-1, AWS Certified Cloud Practitioner](Certificação LPIC-1, AWS Certified Cloud Practitioner)
+- 📈 Algumas metas para este ano 2021 [Certificação LPIC-1, AWS Certified Cloud Practitioner, Certificação DCPT]
 
 - ⚡ Fato engraçado **Tenho o aquarismo como um hobby.**
 
