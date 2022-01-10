@@ -23,7 +23,7 @@
 
 - 📨 Como me encontrar ** E-mail: jdjavan@gmail.com **
 
-- 📈 Algumas metas para este ano 2021 [Certificação LPIC-1, AWS Certified Cloud Practitioner, Certificação DCPT]
+- 📈 Algumas metas para este ano 2022 [Certificação LPIC-1, Certificação CSCU, AWS Certified Cloud Practitioner, Certificação DCPT]
 
 - ⚡ Fato engraçado **Tenho o aquarismo como um hobby.**
 
