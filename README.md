@@ -9,7 +9,7 @@
 
 - 🔭 Atualmente estou trabalhando com **Suporte Técnico de TI**
 
-- 🌱 Atualmente estou cursando ** Especialização em Segurança Ofensiva e Inteligência Cibernética**
+- 🌱 Atualmente estou cursando ** Especialização em Segurança Ofensiva e Inteligência Cibernética e Segurança Defensiva – Blue Team Operations**
 
 - 📝 Estou procurando mentores para tirar minhas dúvidas em [Python]
 
